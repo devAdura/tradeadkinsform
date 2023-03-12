@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#a {
+    background-color: #f1f1f1;
+    width: 30%;
+    height: 100%;
+}
+
+#b {
+    color: rgb(255, 0, 0);
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#c {
+    padding: 10px;
+    border-spacing: 10px;
+}
+
+#e {
+    margin-left: 25px;
+}
+
+
+input[type=text],
+input[type=tel],
+input[type=email],
+input[type=date] {
+    background-color: rgb(255, 255, 255);
+    border: 1px inset silver;
+    padding: 5px;
+}
+
+td {
+    padding: 5px;
+    font-weight: normal;
+    color: rgb(0, 0, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
